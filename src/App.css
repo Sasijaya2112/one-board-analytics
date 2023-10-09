@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+.nav1:hover{
+  background-color: aliceblue;
+  border-radius: 10px;
+} 
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
