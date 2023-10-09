@@ -7,6 +7,10 @@
   border-radius: 10px;
 } 
 
+.about{
+  flex-wrap: wrap;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
