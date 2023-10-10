@@ -37,7 +37,7 @@ function Servicepopup() {
                     </Modal.Title>
                 </Modal.Header>
                 <Modal.Body>
-                    <Image src={logo}/>
+                    <Image src={logo} style={{width:'100%'}}/>
                     <p>
                         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur dolorum aspernatur dolorem quas eum
                         accusantium eveniet culpa repellendus eligendi. Omnis facilis, esse pariatur aut cupiditate repellendus vero
