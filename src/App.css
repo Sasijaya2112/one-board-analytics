@@ -3,9 +3,18 @@
 }
 
 .nav1:hover{
-  background-color: aliceblue;
+  background-color: rgb(0, 106, 228);
   border-radius: 10px;
+  color: white;
 } 
+
+.nav1 .nav-link:hover {
+  color: white;
+}
+
+.nav1 .NavDropdown.Item{
+  background-color: #61dafb;
+}
 
 .about{
   flex-wrap: wrap;

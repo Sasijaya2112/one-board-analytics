@@ -16,7 +16,7 @@ function App() {
       <Topnavbar/>
       <Home/>
       <br></br><br></br>
-      <b>SERVICES</b>
+      <b className='fs-2'>SERVICES</b>
       <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit</p>
       <Container>
       <Row className=''>

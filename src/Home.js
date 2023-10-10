@@ -14,7 +14,7 @@ function Home() {
                 <Col>
                     <p class="about">
                     <br></br>
-                        <b>We are 1Board Analytics</b><br></br>
+                        <b className='fs-2'>We are 1Board Analytics</b><br></br>
                     Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur dolorum aspernatur dolorem quas eum
                     accusantium eveniet culpa repellendus eligendi. Omnis facilis, esse pariatur aut cupiditate repellendus vero
                     facere hic minus!
