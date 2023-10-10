@@ -17,17 +17,17 @@ function Topnavbar() {
         <Navbar.Collapse id="navbarScroll">
           <Nav
             className="me-auto my-2 my-lg-0"
-            style={{ maxHeight: '100px' }}
+            style={{ maxHeight: '100px', marginLeft:"65%" }}
             navbarScroll
           >
-            <Nav.Link href="#action1" className='nav1' >Home</Nav.Link>
+            <Nav.Link href="#Home" className='nav1' >Home</Nav.Link>
             <NavDropdown title="Services" id="navbarScrollingDropdown" className='nav1'>
-              <NavDropdown.Item href="#action3">Data Analytics</NavDropdown.Item>
-              <NavDropdown.Item href="#action4">
+              <NavDropdown.Item href="#Services1">Data Analytics</NavDropdown.Item>
+              <NavDropdown.Item href="#Services2">
                 Cloud Solution
               </NavDropdown.Item>
               {/* <NavDropdown.Divider /> */}
-              <NavDropdown.Item href="#action5" >
+              <NavDropdown.Item href="#Services3" >
                 Digital Marketing
               </NavDropdown.Item>
             </NavDropdown>

@@ -5,10 +5,12 @@ import Slide from './Slide';
 
 
 
+
 function Home() {
     return (
-        <Container d-flex>
-            <Row>
+        <div id="Home">
+        <Container>
+            <Row sm={1} xs={1} lg={2}>
                 <Col>
                     <p class="about">
                     <br></br>
@@ -27,7 +29,6 @@ function Home() {
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero deleniti, saepe labore facilis rerum ut debitis
                     quas excepturi totam reprehenderit sequi ullam impedit perferendis dolore maxime repudiandae nulla doloremque
                     animi!
-                
                 </p>
             </Col>
             <Col>
@@ -35,6 +36,7 @@ function Home() {
             </Col>
         </Row>
     </Container >
+    </div>
   );
 }
 

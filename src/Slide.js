@@ -1,5 +1,7 @@
 import Carousel from 'react-bootstrap/Carousel';
-import logo from './oneboardlogo.png'
+import logo1 from './Sampleimages/CloudComputing.png'
+import logo2 from './Sampleimages/DataAnalytics.png'
+import logo3 from './Sampleimages/DigitalMarketing.png'
 
 function Slide() {
   return (
@@ -7,7 +9,7 @@ function Slide() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src={logo}
+          src={logo1}
           alt="First slide"
         />
         <Carousel.Caption>
@@ -18,7 +20,7 @@ function Slide() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src={logo}
+          src={logo2}
           alt="Second slide"
         />
         <Carousel.Caption>
@@ -29,7 +31,7 @@ function Slide() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src={logo}
+          src={logo3}
           alt="Third slide"
         />
         <Carousel.Caption>

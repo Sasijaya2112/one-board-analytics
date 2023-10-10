@@ -1,11 +1,13 @@
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import Servicepopup from './Servicepopup';
+import logo from './Sampleimages/DigitalMarketing.png'
 
 function Services() {
   return (
-    <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="holder.js/100px180" />
+    <div id="Services3">
+    <Card style={{ width: '18rem' }}> 
+      <Card.Img variant="top" src={logo} />
       <Card.Body>
         <Card.Title>Digital Marketing</Card.Title>
         <Card.Text>
@@ -17,6 +19,7 @@ function Services() {
         <Servicepopup/>
       </Card.Body>
     </Card>
+    </div>
   );
 }
 
