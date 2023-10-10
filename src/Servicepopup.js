@@ -2,7 +2,8 @@ import { useState } from 'react';
 import Button from 'react-bootstrap/Button';
 import Modal from 'react-bootstrap/Modal';
 import { Image } from 'react-bootstrap';
-import logo from './oneboardlogo.png'
+// import logo from './oneboardlogo.png'
+import logo from './Sampleimages/sampleimage.png'
 
 function Servicepopup() {
     const [smShow, setSmShow] = useState(false);
