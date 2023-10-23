@@ -1,20 +1,25 @@
 {
   "files": {
-    "main.css": "/one-board-analytics/static/css/main.28a38b34.css",
-    "main.js": "/one-board-analytics/static/js/main.6133a40d.js",
+    "main.css": "/one-board-analytics/static/css/main.707398dd.css",
+    "main.js": "/one-board-analytics/static/js/main.1bc1a2d5.js",
     "static/js/787.28dd6388.chunk.js": "/one-board-analytics/static/js/787.28dd6388.chunk.js",
+    "static/media/1082422948-preview.mp4": "/one-board-analytics/static/media/1082422948-preview.0e2012b58345b4710d68.mp4",
     "static/media/sampleimage.png": "/one-board-analytics/static/media/sampleimage.9a7ba96f0c583d0e28de.png",
     "static/media/doublearrow.png": "/one-board-analytics/static/media/doublearrow.39157b0b3ca90b85a3bc.png",
+    "static/media/3.png": "/one-board-analytics/static/media/3.8db26f3760f6a87f9e7b.png",
+    "static/media/2.png": "/one-board-analytics/static/media/2.5983a7db1c041e356ce5.png",
+    "static/media/1.png": "/one-board-analytics/static/media/1.bf48642906f9e3855ee6.png",
     "static/media/DataAnalytics.png": "/one-board-analytics/static/media/DataAnalytics.e8178e42c1aeec644a45.png",
+    "static/media/BoardAnalytics.png": "/one-board-analytics/static/media/BoardAnalytics.ea9e2500888b8fcdf2c7.png",
     "static/media/DigitalMarketing.png": "/one-board-analytics/static/media/DigitalMarketing.bd37a648723a4b583ba0.png",
     "static/media/oneboardlogo.png": "/one-board-analytics/static/media/oneboardlogo.6bef252391e9a005e83f.png",
     "index.html": "/one-board-analytics/index.html",
-    "main.28a38b34.css.map": "/one-board-analytics/static/css/main.28a38b34.css.map",
-    "main.6133a40d.js.map": "/one-board-analytics/static/js/main.6133a40d.js.map",
+    "main.707398dd.css.map": "/one-board-analytics/static/css/main.707398dd.css.map",
+    "main.1bc1a2d5.js.map": "/one-board-analytics/static/js/main.1bc1a2d5.js.map",
     "787.28dd6388.chunk.js.map": "/one-board-analytics/static/js/787.28dd6388.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.28a38b34.css",
-    "static/js/main.6133a40d.js"
+    "static/css/main.707398dd.css",
+    "static/js/main.1bc1a2d5.js"
   ]
 }
