@@ -17,9 +17,9 @@
   border-radius: 10px;
 } 
 
-.nav2:hover>.dropdown-menu {
+/* .nav2:hover>.dropdown-menu {
   display: block;
-}
+} */
 /* .nav2>.dropdown-toggle:active {
     pointer-events: none;
 } */
