@@ -37,22 +37,11 @@ window.addEventListener('scroll',changeBackground);
             navbarScroll
           >
             <Nav.Link href="#Home" className='nav1 m-1' style={{color:'white',fontWeight:"bold"}} >Home</Nav.Link>
-            {/* <NavDropdown title="Services" id="navbarScrollingDropdown" className='nav1 m-1' style={{fontWeight:"bold",color:'white'}}>
-              <NavDropdown.Item href="#Services1">Data Analytics</NavDropdown.Item>
-              <NavDropdown.Item href="#Services2">
-                Cloud Solution
-              </NavDropdown.Item>
-              <NavDropdown.Item href="#Services3" >
-                Digital Marketing
-              </NavDropdown.Item>
-            </NavDropdown> */}
-
             <Dropdown className="nav2 mx-3">
-        <Dropdown.Toggle id="dropdown-autoclose-true" variant='none' style={{color:'white', fontWeight:'bold'}}>
+        <Dropdown.Toggle id="dropdown-autoclose-true" aria-expanded="false" data-mdb-toggle="dropdown" className='dropdown-toggle' variant='none' style={{color:'white', fontWeight:'bold'}}>
           Services
         </Dropdown.Toggle>
-
-        <Dropdown.Menu>
+        <Dropdown.Menu className='dropdown-menu'>
           <Dropdown.Item href="#Services1">Data Analytics</Dropdown.Item>
           <Dropdown.Item href="#Services2">Cloud Solution</Dropdown.Item>
           <Dropdown.Item href="#Services3">Digital Marketing</Dropdown.Item>
@@ -60,14 +49,11 @@ window.addEventListener('scroll',changeBackground);
       </Dropdown>
 
             <Nav.Link href="http://www.google.com/" target='blank' className='nav1 m-1' style={{color:'white',fontWeight:"bold"}}>Case studies</Nav.Link>
-            {/* <Nav.Link href="#" disabled>
-            Services
-            </Nav.Link> */}
             <Contact/>
           </Nav>
-          <Form className="d-flex">
-            {/* <Button variant="outline-primary">Contact us</Button> */}
-          </Form>
+          {/* <Form className="d-flex">
+            <Button variant="outline-primary">Contact us</Button>
+          </Form> */}
         </Navbar.Collapse>
       </Container>
     </Navbar>

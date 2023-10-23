@@ -11,7 +11,7 @@ function Contact() {
 
   return (
     <>
-      <Button variant="outline-primary" onClick={handleShow} className='mx-4'>
+      <Button variant="outline-primary" onClick={handleShow} className='mx-4' id='contact' style={{fontWeight:'bold'}}>
         Contact us
       </Button>
 

@@ -11,10 +11,15 @@ function Slide() {
           className="d-block w-100"
           src={logo1}
           alt="First slide"
-        />
+        /> 
         {/* <Carousel.Caption>
+          <div id='slide1'>
           <h5>First slide label</h5>
           <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur dolorum<br/> aspernatur dolorem quas eum
+                    accusantium eveniet culpa repellendus eligendi.<br/> Omnis facilis, esse pariatur aut cupiditate repellendus vero
+                    facere hic minus!</p>
+          </div>
         </Carousel.Caption> */}
       </Carousel.Item>
       <Carousel.Item>
