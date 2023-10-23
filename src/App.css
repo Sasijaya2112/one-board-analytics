@@ -22,6 +22,12 @@
   background-color: #61dafb;
 }
 
+#custom-toggle {
+  color: #FFFFFF; /* Change this to the color you desire */
+  background-color: rgb(255,255,255,0.5); /* Change this if you want to change the background color */
+  border-color: #7a7a7a; /* Change this to set the border color, if necessary */
+}
+
 /* App.css */
 .navbar {
   background: transparent; /* Set the Navbar's background to transparent */

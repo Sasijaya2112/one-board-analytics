@@ -29,8 +29,8 @@ window.addEventListener('scroll',changeBackground);
     <Navbar expand="lg" className={navbar? 'navbar active fixed-top':'navbar fixed-top'}>
       <Container fluid>
         <Navbar.Brand href="#" className='text-light' style={{ fontWeight: "bold" }} ><Image src={logo} style={{height:'60px',width:'130px'}}></Image></Navbar.Brand>
-        <Navbar.Toggle aria-controls="navbarScroll" style={{backgroundColor:(255,255,255), opacity:'0.5'}} />
-        <Navbar.Collapse id="navbarScroll">
+        <Navbar.Toggle aria-controls="navbarScroll" id="custom-toggle" />
+        <Navbar.Collapse id="navbarScroll" >
           <Nav
             className="me-auto my-2 my-lg-0"
             style={{ maxHeight: '100px', marginLeft:"60%" }}
