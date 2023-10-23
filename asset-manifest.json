@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/one-board-analytics/static/css/main.707398dd.css",
-    "main.js": "/one-board-analytics/static/js/main.1bc1a2d5.js",
+    "main.css": "/one-board-analytics/static/css/main.49b1c82b.css",
+    "main.js": "/one-board-analytics/static/js/main.489b5ffa.js",
     "static/js/787.28dd6388.chunk.js": "/one-board-analytics/static/js/787.28dd6388.chunk.js",
     "static/media/1082422948-preview.mp4": "/one-board-analytics/static/media/1082422948-preview.0e2012b58345b4710d68.mp4",
     "static/media/sampleimage.png": "/one-board-analytics/static/media/sampleimage.9a7ba96f0c583d0e28de.png",
@@ -14,12 +14,12 @@
     "static/media/DigitalMarketing.png": "/one-board-analytics/static/media/DigitalMarketing.bd37a648723a4b583ba0.png",
     "static/media/oneboardlogo.png": "/one-board-analytics/static/media/oneboardlogo.6bef252391e9a005e83f.png",
     "index.html": "/one-board-analytics/index.html",
-    "main.707398dd.css.map": "/one-board-analytics/static/css/main.707398dd.css.map",
-    "main.1bc1a2d5.js.map": "/one-board-analytics/static/js/main.1bc1a2d5.js.map",
+    "main.49b1c82b.css.map": "/one-board-analytics/static/css/main.49b1c82b.css.map",
+    "main.489b5ffa.js.map": "/one-board-analytics/static/js/main.489b5ffa.js.map",
     "787.28dd6388.chunk.js.map": "/one-board-analytics/static/js/787.28dd6388.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.707398dd.css",
-    "static/js/main.1bc1a2d5.js"
+    "static/css/main.49b1c82b.css",
+    "static/js/main.489b5ffa.js"
   ]
 }
