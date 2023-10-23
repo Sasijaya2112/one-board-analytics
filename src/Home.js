@@ -2,6 +2,7 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Slide from './Slide';
+import video from './Sampleimages/1082422948-preview.mp4'
 
 
 
@@ -9,9 +10,11 @@ import Slide from './Slide';
 function Home() {
     return (
         <div id="Home">
+            <Slide/>
         <Container>
-            <Row sm={1} xs={1} lg={2}>
-                <Col>
+            {/* <Row sm={1} xs={1} lg={2}>
+                <Col> */}
+                
                     <p class="about">
                     <br></br>
                         <b className='fs-2'>We are 1Board Analytics</b><br></br>
@@ -30,11 +33,11 @@ function Home() {
                     quas excepturi totam reprehenderit sequi ullam impedit perferendis dolore maxime repudiandae nulla doloremque
                     animi!
                 </p>
-            </Col>
+            {/* </Col>
             <Col>
                 <Slide/>
             </Col>
-        </Row>
+        </Row> */}
     </Container >
     </div>
   );

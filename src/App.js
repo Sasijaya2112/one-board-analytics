@@ -20,9 +20,9 @@ function App() {
       <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit</p>
       <Container>
       <Row className=''>
-        <Col className='p-2 p-md-3 p-lg-4 m-lg-3 '><Services1/></Col>
-        <Col className='p-2 p-md-3 p-lg-4 m-lg-3 '><Services2/></Col>
-        <Col className='p-2 p-md-3 p-lg-4 m-lg-3 '><Services3/></Col>
+        <Col className='p-2 p-md-3 p-lg-4 m-lg-5 '><Services1/></Col>
+        <Col className='p-2 p-md-3 p-lg-4 m-lg-5 '><Services2/></Col>
+        <Col className='p-2 p-md-3 p-lg-4 m-lg-5 '><Services3/></Col>
       </Row>
       </Container>
       <Footer/>
