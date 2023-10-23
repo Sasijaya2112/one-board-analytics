@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/one-board-analytics/static/css/main.101162ee.css",
+    "main.css": "/one-board-analytics/static/css/main.f0d4b3c1.css",
     "main.js": "/one-board-analytics/static/js/main.0f7eb178.js",
     "static/js/787.28dd6388.chunk.js": "/one-board-analytics/static/js/787.28dd6388.chunk.js",
     "static/media/1082422948-preview.mp4": "/one-board-analytics/static/media/1082422948-preview.0e2012b58345b4710d68.mp4",
@@ -14,12 +14,12 @@
     "static/media/DigitalMarketing.png": "/one-board-analytics/static/media/DigitalMarketing.bd37a648723a4b583ba0.png",
     "static/media/oneboardlogo.png": "/one-board-analytics/static/media/oneboardlogo.6bef252391e9a005e83f.png",
     "index.html": "/one-board-analytics/index.html",
-    "main.101162ee.css.map": "/one-board-analytics/static/css/main.101162ee.css.map",
+    "main.f0d4b3c1.css.map": "/one-board-analytics/static/css/main.f0d4b3c1.css.map",
     "main.0f7eb178.js.map": "/one-board-analytics/static/js/main.0f7eb178.js.map",
     "787.28dd6388.chunk.js.map": "/one-board-analytics/static/js/787.28dd6388.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.101162ee.css",
+    "static/css/main.f0d4b3c1.css",
     "static/js/main.0f7eb178.js"
   ]
 }
