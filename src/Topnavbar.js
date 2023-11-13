@@ -33,7 +33,7 @@ window.addEventListener('scroll',changeBackground);
         <Navbar.Collapse id="navbarScroll" >
           <Nav
             className="me-auto my-2 my-lg-0"
-            style={{ maxHeight: '100px', marginLeft:"60%" }}
+            style={{ maxHeight: '100px', marginLeft:"55%" }}
             navbarScroll
           >
             <Nav.Link href="#Home" className='nav1 m-1' style={{color:'white',fontWeight:"bold"}} >Home</Nav.Link>
@@ -48,6 +48,7 @@ window.addEventListener('scroll',changeBackground);
         </Dropdown.Menu>
       </Dropdown>
 
+      <Nav.Link href="#proposal" className='nav1 m-1' style={{color:'white',fontWeight:"bold"}} >Proposal</Nav.Link>
             <Nav.Link href="http://www.google.com/" target='blank' className='nav1 m-1' style={{color:'white',fontWeight:"bold"}}>Case studies</Nav.Link>
             <Contact/>
           </Nav>
