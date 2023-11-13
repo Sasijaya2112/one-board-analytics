@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.css": "/one-board-analytics/static/css/main.f0d4b3c1.css",
-    "main.js": "/one-board-analytics/static/js/main.0f7eb178.js",
+    "main.css": "/one-board-analytics/static/css/main.437f7d56.css",
+    "main.js": "/one-board-analytics/static/js/main.ce1c1006.js",
     "static/js/787.28dd6388.chunk.js": "/one-board-analytics/static/js/787.28dd6388.chunk.js",
     "static/media/1082422948-preview.mp4": "/one-board-analytics/static/media/1082422948-preview.0e2012b58345b4710d68.mp4",
     "static/media/sampleimage.png": "/one-board-analytics/static/media/sampleimage.9a7ba96f0c583d0e28de.png",
+    "static/media/bootstrap-icons.woff?": "/one-board-analytics/static/media/bootstrap-icons.449ad8adf6ae0424b7ed.woff",
+    "static/media/bootstrap-icons.woff2?": "/one-board-analytics/static/media/bootstrap-icons.dea24bf5a7646d8b84e7.woff2",
     "static/media/doublearrow.png": "/one-board-analytics/static/media/doublearrow.39157b0b3ca90b85a3bc.png",
     "static/media/3.png": "/one-board-analytics/static/media/3.09cebd6333d3390595f8.png",
     "static/media/1.png": "/one-board-analytics/static/media/1.307311be0c6a9bb83058.png",
@@ -14,12 +16,12 @@
     "static/media/DigitalMarketing.png": "/one-board-analytics/static/media/DigitalMarketing.bd37a648723a4b583ba0.png",
     "static/media/oneboardlogo.png": "/one-board-analytics/static/media/oneboardlogo.6bef252391e9a005e83f.png",
     "index.html": "/one-board-analytics/index.html",
-    "main.f0d4b3c1.css.map": "/one-board-analytics/static/css/main.f0d4b3c1.css.map",
-    "main.0f7eb178.js.map": "/one-board-analytics/static/js/main.0f7eb178.js.map",
+    "main.437f7d56.css.map": "/one-board-analytics/static/css/main.437f7d56.css.map",
+    "main.ce1c1006.js.map": "/one-board-analytics/static/js/main.ce1c1006.js.map",
     "787.28dd6388.chunk.js.map": "/one-board-analytics/static/js/787.28dd6388.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0d4b3c1.css",
-    "static/js/main.0f7eb178.js"
+    "static/css/main.437f7d56.css",
+    "static/js/main.ce1c1006.js"
   ]
 }
