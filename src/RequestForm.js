@@ -13,8 +13,8 @@ function RequestForm() {
       <Row className="mb-3 sm-nowrap">
         <Col sm={6}>
       <Form.Group controlId="formGridPassword">
-          <Form.Label sm="2" style={{ textAlign: 'left', marginRight: '0' }}>Name</Form.Label>
-          <Form.Control type="text" placeholder="Enter Name" />
+          <Form.Label style={{ textAlign: 'left', marginRight: '0' }}>Name</Form.Label>
+          <Form.Control type="text" placeholder="Enter Name"/>
         </Form.Group>
         </Col>
         <Col>
