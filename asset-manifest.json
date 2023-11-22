@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/one-board-analytics/static/css/main.437f7d56.css",
-    "main.js": "/one-board-analytics/static/js/main.3e9dac27.js",
+    "main.js": "/one-board-analytics/static/js/main.376db3c8.js",
     "static/js/787.28dd6388.chunk.js": "/one-board-analytics/static/js/787.28dd6388.chunk.js",
     "static/media/1082422948-preview.mp4": "/one-board-analytics/static/media/1082422948-preview.0e2012b58345b4710d68.mp4",
     "static/media/sampleimage.png": "/one-board-analytics/static/media/sampleimage.9a7ba96f0c583d0e28de.png",
     "static/media/bootstrap-icons.woff?": "/one-board-analytics/static/media/bootstrap-icons.449ad8adf6ae0424b7ed.woff",
+    "static/media/slide1.jpg": "/one-board-analytics/static/media/slide1.16ee25a2a55212e3d296.jpg",
+    "static/media/slide3.jpg": "/one-board-analytics/static/media/slide3.bf599ed68f96b6910f41.jpg",
     "static/media/bootstrap-icons.woff2?": "/one-board-analytics/static/media/bootstrap-icons.dea24bf5a7646d8b84e7.woff2",
+    "static/media/slide2.jpg": "/one-board-analytics/static/media/slide2.72cea799bab764134943.jpg",
     "static/media/doublearrow.png": "/one-board-analytics/static/media/doublearrow.39157b0b3ca90b85a3bc.png",
-    "static/media/slide1.jpg": "/one-board-analytics/static/media/slide1.116175b9156ee30bebb9.jpg",
-    "static/media/slide3.jpg": "/one-board-analytics/static/media/slide3.5e04457c51122d9fff10.jpg",
-    "static/media/slide2.jpg": "/one-board-analytics/static/media/slide2.08b5e324723738797fe9.jpg",
-    "static/media/1.png": "/one-board-analytics/static/media/1.453f96c126c376a34ea7.png",
-    "static/media/2.png": "/one-board-analytics/static/media/2.ff92b7d37071f53afa7e.png",
+    "static/media/1.png": "/one-board-analytics/static/media/1.a7d21ea9ed04d80ceace.png",
     "static/media/BoardAnalytics.png": "/one-board-analytics/static/media/BoardAnalytics.ea9e2500888b8fcdf2c7.png",
-    "static/media/3.png": "/one-board-analytics/static/media/3.5696b8eb400d8b69e58e.png",
+    "static/media/2.png": "/one-board-analytics/static/media/2.33b828f89064dd0adc0e.png",
+    "static/media/3.png": "/one-board-analytics/static/media/3.558d64953ab19c73b909.png",
     "static/media/oneboardlogo.png": "/one-board-analytics/static/media/oneboardlogo.6bef252391e9a005e83f.png",
     "index.html": "/one-board-analytics/index.html",
     "main.437f7d56.css.map": "/one-board-analytics/static/css/main.437f7d56.css.map",
-    "main.3e9dac27.js.map": "/one-board-analytics/static/js/main.3e9dac27.js.map",
+    "main.376db3c8.js.map": "/one-board-analytics/static/js/main.376db3c8.js.map",
     "787.28dd6388.chunk.js.map": "/one-board-analytics/static/js/787.28dd6388.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.437f7d56.css",
-    "static/js/main.3e9dac27.js"
+    "static/js/main.376db3c8.js"
   ]
 }
