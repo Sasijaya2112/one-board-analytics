@@ -1,7 +1,7 @@
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import Servicepopup from './Servicepopup';
-import logo from './Sampleimages/DigitalMarketing.png'
+import logo from './Sampleimages/3.png'
 
 function Services() {
   return (

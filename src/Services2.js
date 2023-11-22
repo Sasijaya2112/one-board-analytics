@@ -2,7 +2,7 @@ import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import Servicepopup from './Servicepopup';
 import './oneboardlogo.png'
-import logo from './Sampleimages/CloudComputing.png'
+import logo from './Sampleimages/2.png'
 
 function Services() {
   return (
