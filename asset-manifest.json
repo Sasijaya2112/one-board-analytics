@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/one-board-analytics/static/css/main.437f7d56.css",
-    "main.js": "/one-board-analytics/static/js/main.8f087609.js",
+    "main.css": "/one-board-analytics/static/css/main.26798c3f.css",
+    "main.js": "/one-board-analytics/static/js/main.d302949d.js",
     "static/js/787.28dd6388.chunk.js": "/one-board-analytics/static/js/787.28dd6388.chunk.js",
     "static/media/1082422948-preview.mp4": "/one-board-analytics/static/media/1082422948-preview.0e2012b58345b4710d68.mp4",
     "static/media/sampleimage.png": "/one-board-analytics/static/media/sampleimage.9a7ba96f0c583d0e28de.png",
@@ -17,12 +17,12 @@
     "static/media/3.png": "/one-board-analytics/static/media/3.558d64953ab19c73b909.png",
     "static/media/oneboardlogo.png": "/one-board-analytics/static/media/oneboardlogo.6bef252391e9a005e83f.png",
     "index.html": "/one-board-analytics/index.html",
-    "main.437f7d56.css.map": "/one-board-analytics/static/css/main.437f7d56.css.map",
-    "main.8f087609.js.map": "/one-board-analytics/static/js/main.8f087609.js.map",
+    "main.26798c3f.css.map": "/one-board-analytics/static/css/main.26798c3f.css.map",
+    "main.d302949d.js.map": "/one-board-analytics/static/js/main.d302949d.js.map",
     "787.28dd6388.chunk.js.map": "/one-board-analytics/static/js/787.28dd6388.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.437f7d56.css",
-    "static/js/main.8f087609.js"
+    "static/css/main.26798c3f.css",
+    "static/js/main.d302949d.js"
   ]
 }
