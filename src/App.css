@@ -46,7 +46,7 @@
 }
 
 .navbar.active{
-  background: #1e1e1e;
+  background: rgba(25, 24, 24, 0.9);
   color:white;
 }
 
@@ -65,12 +65,12 @@
   margin-top: 3%;
 }
 
-#contact:hover{
-  border-radius: 30px;
+/* #contact:hover{
+  border-radius: 30px; 
   font-weight: bold;
-  background-color: rgb(157, 30, 30);
-  border-color: rgb(157, 30, 30);
-}
+  background-color: rgb(8, 107, 220);
+  border-color: rgb(8, 107, 220);
+} */
 
 #slide1{
   margin-top: -45%;

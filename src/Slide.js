@@ -3,6 +3,7 @@ import logo1 from './Sampleimages/slide1.jpg'
 import logo2 from './Sampleimages/slide2.jpg'
 import logo3 from './Sampleimages/slide3.jpg'
 import { Button } from 'react-bootstrap';
+import Nav from 'react-bootstrap/Nav';
 
 function Slide() {
   return (
@@ -21,9 +22,11 @@ function Slide() {
                     accusantium eveniet culpa repellendus eligendi.<br/> Omnis facilis, esse pariatur aut cupiditate repellendus vero
                     facere hic minus!</p> */}
           </div>
-          <Button variant="danger" type="submit" style={{marginLeft:'70%',marginTop:'20%'}}>
-        Submit
+          <Nav.Link href="#proposal">
+          <Button variant="primary" type="submit" style={{marginLeft:'70%',marginTop:'20%'}}>    
+        Submit Proposal
       </Button>
+      </Nav.Link>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -40,9 +43,11 @@ function Slide() {
                     accusantium eveniet culpa repellendus eligendi.<br/> Omnis facilis, esse pariatur aut cupiditate repellendus vero
                     facere hic minus!</p> */}
           </div>
-          <Button variant="danger" type="submit" style={{marginLeft:'70%',marginTop:'20%'}}>
-        Submit
+          <Nav.Link href="#proposal">
+          <Button variant="primary" type="submit" style={{marginLeft:'70%',marginTop:'20%'}}>
+        Submit Proposal
       </Button>
+      </Nav.Link>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -59,9 +64,11 @@ function Slide() {
                     accusantium eveniet culpa repellendus eligendi.<br/> Omnis facilis, esse pariatur aut cupiditate repellendus vero
                     facere hic minus!</p> */}
           </div>
-          <Button variant="danger" type="submit" style={{marginLeft:'70%',marginTop:'20%'}}>
-        Submit
+          <Nav.Link href="#proposal">
+          <Button variant="primary" type="submit" style={{marginLeft:'70%',marginTop:'20%'}}>
+        Submit Proposal
       </Button>
+      </Nav.Link>
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>

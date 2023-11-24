@@ -44,10 +44,7 @@ function Servicepopup() {
                         facere hic minus!
                         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sit ipsum autem temporibus esse facilis tempore,
                         voluptatum ullam voluptatem aspernatur aliquid corporis alias porro iure assumenda maxime! Est optio rerum ab.
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptate quam, sint unde error dolor qui doloremque
-                        delectus laborum inventore consequatur, illum facilis quis. Dolorem delectus nam rem asperiores illum. Ipsum!
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi consequuntur dolor hic corporis quod adipisci rem.
-                        Ratione error sint consequuntur veritatis saepe praesentium, maxime eum quam consectetur dolor quo nobis!
+                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
                     </p>
                 </Modal.Body>
             </Modal>

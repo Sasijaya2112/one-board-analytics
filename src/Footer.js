@@ -7,12 +7,12 @@ import { Col, Row } from 'react-bootstrap';
 
 function Footer() {
   return (
-    <Navbar expand="lg" className="bg-dark lg">
+    <Navbar expand="lg" className="lg" style={{backgroundColor:'#383838'}}>
       <Container>
         <Navbar.Brand href="#home" style={{marginLeft: "0%", color:"white"}}>
         <Row ><Col sm={6} className='fs-6'><i class="bi bi-envelope-at-fill"></i> helloteam@1boardanalytics.com <br></br></Col></Row>
         <Row ><Col sm={6} className='fs-6'><i class="bi bi-geo-alt-fill"></i> London, UK & Chennai, India <br></br></Col></Row>
-        <Row ><Col sm={6} className='fs-6'><i class="bi bi-telephone-fill"></i> UK - +442045755555 & India - +919342311748<br></br></Col></Row>
+        <Row ><Col sm={6} className='fs-6'><i class="bi bi-telephone-fill"></i> UK:+442045755555 & India:+919342311748<br></br></Col></Row>
         </Navbar.Brand>
         <Navbar.Collapse id="basic-navbar-nav">
         </Navbar.Collapse>
