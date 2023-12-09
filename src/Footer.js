@@ -1,13 +1,13 @@
 import Container from 'react-bootstrap/Container';
-import Nav from 'react-bootstrap/Nav';
+// import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
-import NavDropdown from 'react-bootstrap/NavDropdown';
+// import NavDropdown from 'react-bootstrap/NavDropdown';
 import "bootstrap-icons/font/bootstrap-icons.css";
 import { Col, Row } from 'react-bootstrap';
 
 function Footer() {
   return (
-    <Navbar expand="lg" className="lg" style={{backgroundColor:'#383838'}}>
+    <Navbar expand="lg" className="lg" style={{backgroundColor:'#282828'}}>
       <Container>
         <Navbar.Brand href="#home" style={{marginLeft: "0%", color:"white"}}>
         <Row ><Col sm={6} className='fs-6'><i class="bi bi-envelope-at-fill"></i> helloteam@1boardanalytics.com <br></br></Col></Row>

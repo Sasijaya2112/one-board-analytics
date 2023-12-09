@@ -7,7 +7,7 @@ import logo from './Sampleimages/2.png'
 function Services() {
   return (
     <div id="Services2">
-    <Card style={{ width: '18rem' }}>
+    <Card className='w-100'>
       <Card.Img variant="top" src={logo} />
       <Card.Body>
         <Card.Title>Cloud Solution</Card.Title>

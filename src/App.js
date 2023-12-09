@@ -5,9 +5,10 @@ import Services1 from './Services1';
 import Services2 from './Services2';
 import Services3 from './Services3';
 import { Col, Container, Row } from 'react-bootstrap';
-import Footer from './Footer';
+// import Footer from './Footer';
 import MoveToTop from './Movetotop';
 import RequestForm from './RequestForm';
+import Footer1 from './Footer1';
 
 
 
@@ -21,13 +22,13 @@ function App() {
       <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit</p>
       <Container>
       <Row className=''>
-        <Col className='p-2 p-md-3 p-lg-4 m-lg-5 '><Services1/></Col>
-        <Col className='p-2 p-md-3 p-lg-4 m-lg-5 '><Services2/></Col>
-        <Col className='p-2 p-md-3 p-lg-4 m-lg-5 '><Services3/></Col>
+        <Col className='p-5 p-md-3 p-lg-4 m-lg-5'><Services1/></Col>
+        <Col className='p-5 p-md-3 p-lg-4 m-lg-5'><Services2/></Col>
+        <Col className='p-5 p-md-3 p-lg-4 m-lg-5'><Services3/></Col>
       </Row>
       <RequestForm/>
       </Container>
-      <Footer/>
+      <Footer1/>
       <MoveToTop/>
     </div>
   );

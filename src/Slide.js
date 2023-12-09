@@ -1,7 +1,7 @@
 import Carousel from 'react-bootstrap/Carousel';
-import logo1 from './Sampleimages/slide1.jpg'
-import logo2 from './Sampleimages/slide2.jpg'
-import logo3 from './Sampleimages/slide3.jpg'
+import logo1 from './Sampleimages/slide1.png'
+import logo2 from './Sampleimages/slide2.png'
+import logo3 from './Sampleimages/slide3.png'
 import { Button } from 'react-bootstrap';
 import Nav from 'react-bootstrap/Nav';
 
@@ -23,8 +23,8 @@ function Slide() {
                     facere hic minus!</p> */}
           </div>
           <Nav.Link href="#proposal">
-          <Button variant="primary" type="submit" style={{marginLeft:'70%',marginTop:'20%'}}>    
-        Submit Proposal
+          <Button variant="primary" type="submit" style={{marginLeft:'63%',marginTop:'20%'}}>    
+        <h6>Submit Proposal</h6>
       </Button>
       </Nav.Link>
         </Carousel.Caption>
@@ -44,9 +44,9 @@ function Slide() {
                     facere hic minus!</p> */}
           </div>
           <Nav.Link href="#proposal">
-          <Button variant="primary" type="submit" style={{marginLeft:'70%',marginTop:'20%'}}>
-        Submit Proposal
-      </Button>
+          <Button variant="primary" type="submit" style={{marginLeft:'65%',marginTop:'20%'}}>
+          <h6>Submit Proposal</h6>
+          </Button>
       </Nav.Link>
         </Carousel.Caption>
       </Carousel.Item>
@@ -65,8 +65,8 @@ function Slide() {
                     facere hic minus!</p> */}
           </div>
           <Nav.Link href="#proposal">
-          <Button variant="primary" type="submit" style={{marginLeft:'70%',marginTop:'20%'}}>
-        Submit Proposal
+          <Button variant="primary" type="submit" style={{marginLeft:'65%',marginTop:'20%'}}>
+          <h6>Submit Proposal</h6>
       </Button>
       </Nav.Link>
         </Carousel.Caption>

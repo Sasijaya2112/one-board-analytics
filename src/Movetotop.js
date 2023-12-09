@@ -13,7 +13,7 @@ function MoveToTop() {
   };
 
   return (
-    <Button variant="warning" onClick={handleScrollToTop} className="move-to-top-button" style={{position:"fixed",bottom:"20px",right:"20px", borderRadius:"20px"}}>
+    <Button variant="primary" onClick={handleScrollToTop} className="move-to-top-button" style={{position:"fixed",bottom:"20px",right:"20px", borderRadius:"20px"}}>
       <Image src={arrow} style={{width:"20px",height:"10%"}}></Image>
     </Button>
   );
