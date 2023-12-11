@@ -9,6 +9,7 @@ import { Col, Container, Row } from 'react-bootstrap';
 import MoveToTop from './Movetotop';
 import RequestForm from './RequestForm';
 import Footer1 from './Footer1';
+import SocialMedia from './SocialMedia';
 
 
 
@@ -21,6 +22,7 @@ function App() {
       <b className='fs-2'>SERVICES</b>
       <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit</p>
       <Container>
+        
       <Row className=''>
         <Col className='p-5 p-md-3 p-lg-4 m-lg-5'><Services1/></Col>
         <Col className='p-5 p-md-3 p-lg-4 m-lg-5'><Services2/></Col>
@@ -30,6 +32,7 @@ function App() {
       </Container>
       <Footer1/>
       <MoveToTop/>
+      <SocialMedia/>
     </div>
   );
 }

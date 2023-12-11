@@ -1,8 +1,8 @@
 import Container from 'react-bootstrap/Container';
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
+// import Row from 'react-bootstrap/Row';
+// import Col from 'react-bootstrap/Col';
 import Slide from './Slide';
-import video from './Sampleimages/1082422948-preview.mp4'
+// import video from './Sampleimages/1082422948-preview.mp4'
 
 
 
