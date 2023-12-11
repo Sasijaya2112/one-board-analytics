@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/one-board-analytics/static/css/main.cac4112f.css",
-    "main.js": "/one-board-analytics/static/js/main.832bbd9d.js",
+    "main.css": "/one-board-analytics/static/css/main.31f675fa.css",
+    "main.js": "/one-board-analytics/static/js/main.b09d6490.js",
     "static/js/787.28dd6388.chunk.js": "/one-board-analytics/static/js/787.28dd6388.chunk.js",
     "static/media/slide1.png": "/one-board-analytics/static/media/slide1.55258c01e73e3b048c0c.png",
     "static/media/sampleimage.png": "/one-board-analytics/static/media/sampleimage.9a7ba96f0c583d0e28de.png",
@@ -16,12 +16,12 @@
     "static/media/3.png": "/one-board-analytics/static/media/3.558d64953ab19c73b909.png",
     "static/media/oneboardlogo.png": "/one-board-analytics/static/media/oneboardlogo.6bef252391e9a005e83f.png",
     "index.html": "/one-board-analytics/index.html",
-    "main.cac4112f.css.map": "/one-board-analytics/static/css/main.cac4112f.css.map",
-    "main.832bbd9d.js.map": "/one-board-analytics/static/js/main.832bbd9d.js.map",
+    "main.31f675fa.css.map": "/one-board-analytics/static/css/main.31f675fa.css.map",
+    "main.b09d6490.js.map": "/one-board-analytics/static/js/main.b09d6490.js.map",
     "787.28dd6388.chunk.js.map": "/one-board-analytics/static/js/787.28dd6388.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cac4112f.css",
-    "static/js/main.832bbd9d.js"
+    "static/css/main.31f675fa.css",
+    "static/js/main.b09d6490.js"
   ]
 }
