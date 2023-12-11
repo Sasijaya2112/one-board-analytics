@@ -44,7 +44,7 @@ function RequestForm() {
       data: JSON.stringify(data),
       contentType: 'application/json'
   }).done(function() {
-      alert('Your mail is sent!');
+      // alert('Your mail is sent!');
   }).fail(function(error) {
       alert('Oops... ' + JSON.stringify(error));
   });
@@ -55,6 +55,7 @@ function RequestForm() {
   setMessage('');
   setName('');
   setService('');
+  alert('Your request has been sent!');
   }
 
   return (
