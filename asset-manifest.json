@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/one-board-analytics/static/css/main.31f675fa.css",
+    "main.css": "/one-board-analytics/static/css/main.484f54c0.css",
     "main.js": "/one-board-analytics/static/js/main.49b19264.js",
     "static/js/787.28dd6388.chunk.js": "/one-board-analytics/static/js/787.28dd6388.chunk.js",
     "static/media/slide1.png": "/one-board-analytics/static/media/slide1.55258c01e73e3b048c0c.png",
@@ -16,12 +16,12 @@
     "static/media/3.png": "/one-board-analytics/static/media/3.558d64953ab19c73b909.png",
     "static/media/oneboardlogo.png": "/one-board-analytics/static/media/oneboardlogo.6bef252391e9a005e83f.png",
     "index.html": "/one-board-analytics/index.html",
-    "main.31f675fa.css.map": "/one-board-analytics/static/css/main.31f675fa.css.map",
+    "main.484f54c0.css.map": "/one-board-analytics/static/css/main.484f54c0.css.map",
     "main.49b19264.js.map": "/one-board-analytics/static/js/main.49b19264.js.map",
     "787.28dd6388.chunk.js.map": "/one-board-analytics/static/js/787.28dd6388.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31f675fa.css",
+    "static/css/main.484f54c0.css",
     "static/js/main.49b19264.js"
   ]
 }
